@@ -1,6 +1,6 @@
 **Ações Web Scraping**
 
-Este projeto consiste em uma ferramenta de web scraping desenvolvida em Python para coletar dados em tempo real sobre ações do mercado financeiro. Utilizando bibliotecas como BeautifulSoup e requests, o script acessa fontes de dados confiáveis na web e extrai informações relevantes, como preço atual, volume de negociação, variação percentual, entre outros dados úteis para análise e tomada de decisões de investimento.
+Este projeto consiste em uma ferramenta de web scraping desenvolvida em Python para coletar dados em tempo real sobre ações do mercado financeiro. Utilizando bibliotecas como slenium e pandas, o script acessa fontes de dados confiáveis na web e extrai informações relevantes, como preço atual, volume de negociação, variação percentual, entre outros dados úteis para análise e tomada de decisões de investimento.
 
 Funcionalidades Principais
 Coleta de dados em tempo real sobre ações de empresas listadas em bolsas de valores.
